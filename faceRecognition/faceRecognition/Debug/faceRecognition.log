@@ -1,0 +1,4 @@
+﻿  faceRecognition.cpp
+c:\users\user\documents\visual studio 2015\projects\facerecognition\facerecognition\facerecognition.cpp(78): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\documents\visual studio 2015\projects\facerecognition\facerecognition\facerecognition.cpp(95): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+opencv_world320d.lib(opencv_world320d.dll) : fatal error LNK1112: module machine type 'x64' conflicts with target machine type 'X86'
